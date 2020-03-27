@@ -32,7 +32,7 @@ export default StyleSheet.create({
     incidentValue: {
         marginTop: 8,
         fontSize: 15,
-        color: '737380',
+        color: '#737380',
     },
 
     contactBox: {
@@ -45,7 +45,7 @@ export default StyleSheet.create({
     heroTitle: {
         fontWeight: 'bold',
         fontSize: 20,
-        color: '13131a',
+        color: '#13131a',
         lineHeight: 30,
     },
 
